@@ -21,7 +21,7 @@ Nei primi tre mesi abbiamo iniziato a creare le condizioni per un ecosistema a s
 
 - Abbiamo costituito con il Ministero della Giustizia e il Dipartimento per l’Editoria un gruppo di lavoro per contrastare “l’odio online” e promosso una prima azione di contrasto al fenomeno, “chi odia paga” nell’ambito del progetto Repubblica Digitale.
 
-- Stiamo promuovendo l’istituzione dell’AI Ethical Lab-el) in collaborazione con molti stakeholder pubblici e privati. E in questo contesto, nei prossimi giorni, firmeremo un protocollo di intesa con la Fondazione Leonardo che ha già avviato un’attenta riflessione su questi temi.
+- Stiamo promuovendo l’istituzione dell’AI Ethical Lab-el in collaborazione con molti stakeholder pubblici e privati. E in questo contesto, nei prossimi giorni, firmeremo un protocollo di intesa con la Fondazione Leonardo che ha già avviato un’attenta riflessione su questi temi.
 
 - Abbiamo proposto in legge di bilancio alcuni emendamenti per rendere più efficiente il processo di innovazione e digitalizzazione del Paese.
 
