@@ -24,4 +24,4 @@ su tutto il territorio italiano: un milione di persone da formare, con 20 mila o
 - 39 milioni sono i cittadini all’interno nell’Anagrafe Nazionale della Popolazione Residente, finalmente unificata.
 - 66 milioni sono le volte in cui i cittadini hanno pagato con pagoPA i pagamenti digitali dei servizi della Pubblica Amministrazione.
 - 5 sono le città che stanno sperimentando l’applicazione IO.
-- L’Italia ha iniziato i primi incontri tecnici con la Germania con l’obiettivo di federarsi nell’ambito del progetto Gaia X, per la creazione di un cloud europeo.
+- L’Italia ha iniziato i primi incontri tecnici con la Germania con l’obiettivo di federarsi nell’ambito del progetto Gaia X, per la creazione di un cloud europeo
