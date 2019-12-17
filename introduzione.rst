@@ -19,5 +19,6 @@ Facciamolo crescere insieme, mettiamo a fattor comune, le nostre idee, le nostre
 
 Il momento giusto è adesso.
 
-Paola Pisano
+**Paola Pisano**
+
 *Ministro per l’Innovazione tecnologica e la digitalizzazione*
