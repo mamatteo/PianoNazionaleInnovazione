@@ -26,3 +26,7 @@ L’attuazione della strategia si basa anche sull’utilizzo di diversi fondi di
 - fondi destinati all’innovazione nella manovra di bilancio; 
 - fondi non ancora impegnati, afferenti a programmi nazionali e europei (es: Fondi Pon, Pon gov, Fondi di Coesione);
 - fondi già disponibili o di nuova programmazione grazie ad una rinnovata collaborazione con il Dipartimento della funzione pubblica. 
+
+
+
+`(Partecipa) <https://partecipa.gov.it/>`_
