@@ -9,4 +9,4 @@ L’innovazione e la digitalizzazione devono far parte di una riforma struttural
    introduzione.rst
    la-strategia.rst
    le-tre-sfide.rst
-   piano-d-azione
+   piano-d-azione.rst
