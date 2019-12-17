@@ -6,6 +6,7 @@ Piano d'azione: le prime 20 (+1) azioni per trasformare il Paese
 
    piano-d-azione/A01-governance.rst
    piano-d-azione/A02-identita-digitale.rst
+   piano-d-azione/A03-domicilio-digitale.rst
    piano-d-azione/A04-app-io.rst
    piano-d-azione/A05-ristrutturazione-digitale.rst
    piano-d-azione/A06-open-innovation-pa.rst
