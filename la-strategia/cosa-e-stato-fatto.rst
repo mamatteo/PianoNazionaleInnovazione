@@ -27,13 +27,11 @@ Nei primi tre mesi abbiamo iniziato a creare le condizioni per un ecosistema a s
 
 - Stiamo lavorando per la nascita di laboratori di innovazione nelle scuole, attivando il primo laboratorio sulla robotica.
 
-- Due laboratori di tecnologia delle Nazioni Unite hanno scelto due città italiane per la loro sede: si occuperanno di sviluppo tecnologico e trasferimento di innovazione verso Paesi in via di sviluppo grazie al lavoro congiunto con
-il Ministero degli esteri.
+- Due laboratori di tecnologia delle Nazioni Unite hanno scelto due città italiane per la loro sede: si occuperanno di sviluppo tecnologico e trasferimento di innovazione verso Paesi in via di sviluppo grazie al lavoro congiunto con il Ministero degli esteri.
 
 - Abbiamo iniziato il “cantiere Taranto” con l’entrata di Taranto in ANPR l’anagrafe nazionale per i residenti.
 
-- TIM, nell’ambito del nostro progetto Repubblica Digitale, ha promosso una vasta campagna di educazione e inclusione digitale
-su tutto il territorio italiano: un milione di persone da formare, con 20 mila ore di lezione, 400 formatori e 107 province.
+- TIM, nell’ambito del nostro progetto Repubblica Digitale, ha promosso una vasta campagna di educazione e inclusione digitale su tutto il territorio italiano: un milione di persone da formare, con 20 mila ore di lezione, 400 formatori e 107 province.
 
 - 39 milioni sono i cittadini all’interno nell’Anagrafe Nazionale della Popolazione Residente, finalmente unificata.
 
