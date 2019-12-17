@@ -11,7 +11,7 @@ I principi che guideranno le azioni della seconda sfida sono:
 
 **I tre obiettivi alla base della seconda sfida sono:**
 
-** 1. I cambiamenti strutturali agevolano e accelerano l’innovazione nell’ecosistema.**
+1. **I cambiamenti strutturali agevolano e accelerano l’innovazione nell’ecosistema.**
 
 La possibilità di **sperimentazione in deroga**, l’accesso a **asset innovativi**, la nascita e il sostegno a servizi utili alla crescita e sviluppo di innovazione (investitori, acceleratori, ecc.), gli incentivi alla creazione di **ecosistemi di innovazione** che aiutino la **contaminazione** (hub), la **formazione** ad *hoc* per *startup* e società di venture capital, supportano la crescita di innovazione. Ci concentreremo non solo su settori verticali del made in ITaly (settore manifatturiero, turismo, *food*, moda, design, sociale, *digital humanities*) e sull’industria *tech* italiana (AI, *cyber security*, robotica e mobilità del futuro) **ma anche su processi di cross fertilization dove l’abbinamento di settori differenti saranno la chiave di successo della crescita di innovazione.**
 
