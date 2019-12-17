@@ -15,4 +15,5 @@ Ogni azione sarà guidata dai seguenti principi:
 **I tre obiettivi alla base della prima sfida sono:**
 
 1. **I cittadini e le imprese accedono online ai servizi della Pubblica Amministrazione**
+
 La diffusione delle **piattaforme abilitanti** (identità digitale, sistema di pagamento elettronico, anagrafe unica, carta d’identità elettronica), la razionalizzazione delle **infrastrutture** e delle risorse (cloud), la promozione di **modelli virtuosi** (linee guida di design, riuso del software), la creazione di **nuovi servizi digitali** permettono un uso sistematico da parte di  cittadini e imprese di servizi digitali efficienti e semplici da usare.
