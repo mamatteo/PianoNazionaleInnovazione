@@ -4,5 +4,5 @@
 
    introduzione.rst
    la-strategia.rst
-   il-piano-2025.rst
+   le-tre-sfide.rst
    piano-d-azione
