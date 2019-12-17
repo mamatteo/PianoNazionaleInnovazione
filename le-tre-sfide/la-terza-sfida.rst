@@ -12,6 +12,7 @@ Lo sviluppo delle azioni saranno guidate dai seguenti principi:
 **I tre obiettivi alla base della terza sfida sono:**
 
 1. **Le capacità digitali delle persone sono rafforzate.**
+
 Aumentano le capacità digitali dei cittadini, che hanno la possibilità di sfruttare al meglio i nuovi servizi digitali pubblici e privati. In questo modo i cittadini possono partecipare in modo competente ai processi politici, sociali, culturali ed economici e di valutare le conseguenze delle proprie azioni per la creazione di una società digitale e democratica.
 
 2. **Lo sviluppo tecnologico etico, responsabile e non discriminatorio è garantito.**
