@@ -14,14 +14,14 @@ Ogni azione sarà guidata dai seguenti principi:
 
 **I tre obiettivi alla base della prima sfida sono:**
 
-1.**I cittadini e le imprese accedono online ai servizi della Pubblica Amministrazione**
+1. **I cittadini e le imprese accedono online ai servizi della Pubblica Amministrazione**
 
 La diffusione delle **piattaforme abilitanti** (identità digitale, sistema di pagamento elettronico, anagrafe unica, carta d’identità elettronica), la razionalizzazione delle **infrastrutture** e delle risorse (cloud), la promozione di **modelli virtuosi** (linee guida di design, riuso del software), la creazione di **nuovi servizi digitali** permettono un uso sistematico da parte di  cittadini e imprese di servizi digitali efficienti e semplici da usare.
 
-2.**Il Pubblico è volano di digitalizzazione del privato.**
+2. **Il Pubblico è volano di digitalizzazione del privato.**
 Attraverso una efficace integrazione dei servizi pubblici con i servizi privati, il miglioramento del *procurement* e le politiche di *open innovation*, la Pubblica Amministrazione diventa un elemento abilitante della **crescita dei servizi digitali del mondo privato.** 
 
-3.**Il patrimonio informativo pubblico e l’utilizzo e condivisione dei dati da parte delle amministrazioni e dei privati è valorizzato e incentivato.**
+3. **Il patrimonio informativo pubblico e l’utilizzo e condivisione dei dati da parte delle amministrazioni e dei privati è valorizzato e incentivato.**
 
 Viene valorizzato il patrimonio di open data della Pubblica Amministrazione, per permettere **efficienza e trasparenza** nei servizi esistenti, sviluppare **nuovi servizi**, attrarre nuove realtà imprenditoriali. L’uso del patrimonio informativo pubblico viene usato anche per lo sviluppo e il monitoraggio di strategie e decisioni informate e mirate da parte della Pubblica Amministrazione. 
 
