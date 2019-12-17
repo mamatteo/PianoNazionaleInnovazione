@@ -11,7 +11,7 @@ Abbiamo strutturato ogni sfida in **tre obiettivi** che si realizzano attraverso
 
 Proprio per permettere un’attuazione efficace del piano strategico, la strategia:
 - sarà aggiornata ogni 4 mesi per verificare lo stato di sviluppo delle azioni, l’inserimento di nuove azioni e il raggiungimento della visione generale;
-- verrà inserita sulla piattaforma partecipativa della Pubblica Amministrazione `(Partecipa) <https://partecipa.gov.it/`_, affinchè chiunque possa dare il suo contributo proponendo un’azione, un progetto un’iniziativa che risponda alle sfide lanciate dal documento. 
+- verrà inserita **sulla piattaforma partecipativa della Pubblica Amministrazione `(Partecipa) <https://partecipa.gov.it/>`_**, affinchè chiunque possa dare il suo contributo proponendo un’azione, un progetto un’iniziativa che risponda alle sfide lanciate dal documento. 
 
 La strategia descrive **un processo di trasformazione strutturale e radicale del nostro Paese**, dalle infrastrutture digitali, ai servizi della Pubblica Amministrazione, alla collaborazione tra pubblico e privato nel generare innovazione. Per questo tutte le azioni richiedono un lavoro coordinato che verrà svolto attraverso la **cabina di regia istituit** con gli altri ministeri **e tavoli di coordinamento con i territori** (Comuni, Regioni), gli enti, le agenzie centrali, locali e i soggetti privati. 
 
@@ -29,4 +29,4 @@ L’attuazione della strategia si basa anche sull’utilizzo di diversi fondi di
 
 
 
-`(Partecipa) <https://partecipa.gov.it/>`_
+
