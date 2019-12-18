@@ -10,4 +10,7 @@ cittadini anche nel nuovo ecosistema digitale.
 COME
 ----
 Nell’ambito del programma, gli anziani che vivono in Comuni a più alto rischio di *digital divide* riceveranno un **tablet personalizzato** con una serie di app rilasciate da soggetti pubblici e privati che consentiranno loro di leggere un giornale offerto a condizioni speciali dagli editori, fare la spesa e ordinare farmaci, effettuare chiamate di soccorso e comunicare
-con i loro famigliari. I tablet saranno donati da imprese ICT, nuovi o ricondizionati. E giacché nessuno nasce “digitale” un esercito di volontari (grazie anche alla creazione del servizio civile digitale) li educheranno all’utilizzo del tablet e delle app, regalando loro **sorrisi digital**, capaci di restituirgli il diritto di sentirsi per davvero cittadini digitali e di scoprire quanto le nuove tecnologie possano risultare preziose per vivere meglio
+con i loro famigliari. I tablet saranno donati da imprese ICT, nuovi o ricondizionati. E giacché nessuno nasce “digitale” un esercito di volontari (grazie anche alla creazione del servizio civile digitale) li educheranno all’utilizzo del tablet e delle app, regalando loro **sorrisi digital**, capaci di restituirgli il diritto di sentirsi per davvero cittadini digitali e di scoprire quanto le nuove tecnologie possano risultare preziose per vivere meglio.
+
+Il programma è aperto all’adesione di quanti, soggetti pubblici e privati, vogliano contribuire, sulla base della comune convinzione che offrire a tutti i cittadini la possibilità concreta di vivere la dimensione digitale della nostra società è uno degli obiettivi primari dello Stato.
+
